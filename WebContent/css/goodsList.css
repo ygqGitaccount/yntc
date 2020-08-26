@@ -1,0 +1,58 @@
+@charset "UTF-8";
+.bigBox{
+  width:1200px;
+  /* height:2000px; */
+  /* background: red;  */
+  margin:0 auto;
+  margin-top:20px;
+  overflow: hidden;
+ 
+}
+.item{
+ margin-top:10px;
+ width:230px;
+ height:340px;
+ background: #fff;
+ float:left;
+ /* overflow:hidden; */
+ margin-left:5px;
+}
+.item:hover{
+	background:rgba(255,255,255,.4);
+} 
+.top{
+/*  background:#f00; */
+ width:210px;
+ height:230px;
+ margin: 10px auto;
+}
+.top img{
+  width:210px;
+  height:230px;
+ 
+}
+.center_goodStatus{
+    /* background:red;  */
+    width:210px;
+    height:50px;
+    margin:0 auto;
+    overflow: auto;
+}
+.bottom{
+ /*  background:red; */
+  margin:0 auto;
+  width:210px;
+  height:25px;
+}
+.bottom ul li{
+ /*  background:red; */
+  width:105px;
+  height:30px;
+  font-size: 25px;
+  float:left;
+  color:#ff5102;
+}
+#monnum{
+  color:#000;
+  text-align:right;
+}

@@ -1,0 +1,29 @@
+*{
+  margin:0;
+  padding:0;
+}
+.cartLeft{
+	height:40px;
+	width:13%;
+	font-size:30px;
+	line-height:40px;
+	text-align:center;
+	/* background:#f00; */
+	float: left;
+}
+.content table{
+	/* background:#f00; */
+	border:1px solid #000;
+	border-collapse:collapse;
+}
+.bg_tr{
+	background-color:#c0dbbb;
+}
+.bg_th{
+	border-right: 1px solid #fff;
+}
+.bg_td td{
+	text-align: center;
+	line-height: 100px;
+	border-bottom: 2px solid #c0dbbb;
+}
